@@ -1,4 +1,4 @@
-Fake SpeedTest results.
+Fake (Real) SpeedTest results.
 
 Requirements:
 Python 3+, requests
